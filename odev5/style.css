@@ -1,0 +1,55 @@
+.logo {
+    text-align: center;
+    width: auto;
+    margin-top: 15%;
+}
+
+#search {
+    text-align: center;
+    padding: 0%;
+    background-color: gainsboro;
+}
+
+.textbox {
+    width: 45%;
+}
+
+.search-button {
+    padding: 2%;
+    width: 65%;
+    height: 35%;
+    border-radius: 25%;
+    margin: auto;
+}
+
+.box1 {
+    
+    padding: 5%;
+    background-color: lavenderblush;
+    float: left;
+    margin: auto;
+    
+    
+}
+
+.box2 {
+    
+    padding: 6%;
+    background-color: lavenderblush;
+    float: left;
+    margin: auto;
+    
+}
+
+.box3 {
+   
+    padding: 4%;
+    background-color: lavenderblush;  
+    float: left;
+    margin: auto;
+    
+}
+
+.footer {
+    text-align: center;
+}
